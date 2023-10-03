@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <div>
       <nav>
-        <img src="./AirBnbLogo.png" />
+        <img src="./AirBnb Logo.png" className="nav-logo" />
       </nav>
     </div>
   );

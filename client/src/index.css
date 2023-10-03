@@ -4,9 +4,98 @@
 
 body {
   margin: 0;
+  font-family: 'poppins';
 }
 
 nav {
   display: flex;
+  flex-wrap: wrap;
   justify-content: start;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding: 20px 36px;
 }
+
+.nav-logo {
+  max-width: 100px;
+}
+
+.hero-img {
+  padding-top: 3rem;
+  max-width: 400px;
+  align-self: center;
+}
+
+section {
+  padding: 20px;
+}
+
+.section-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.card--image {
+  height: 235px;
+  width: 176px;
+}
+
+.card-star {
+  height: 14px;
+  width: 14px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 110%;
+  margin-left: 3rem;
+}
+
+.hero-p {
+  line-height: 110%;
+  font-size: 16px;
+  margin-left: 3rem;
+}
+
+p {
+  font-size: 12px;
+  line-height: 0px;
+}
+
+.card-p {
+  font-size: 14px;
+}
+
+.card-rating {
+  display: flex;
+  align-items: center;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+}
+
+span {
+  font-weight: bold;
+}
+/* 
+@media (max-width: 390px) {
+  nav {
+    padding: 10px 20px;
+  }
+
+  .nav-logo {
+    max-width: 100%;
+  }
+
+  .hero-img {
+    padding-top: 2rem;
+    width: 10%;
+    height: 40%;
+  }
+} */
