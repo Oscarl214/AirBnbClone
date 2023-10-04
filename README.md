@@ -4,7 +4,7 @@
 
 ## Description
 
-Testing & Practicing React Skills, specifically prop and passing in Data.
+Testing & Practicing React Skills, specifically prop drilling and data manipulation.
 
 Duplicated AirBnb experiences page, focused in on iteration of card component.
 
