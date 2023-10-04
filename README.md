@@ -4,7 +4,9 @@
 
 ## Description
 
-Testing & Practicing React Skills
+Testing & Practicing React Skills, specifically prop and passing in Data.
+
+Duplicated AirBnb experiences page, focused in on iteration of card component.
 
 ## Table of Contents
 
@@ -25,6 +27,8 @@ This application was developed by the following contributors:
 
 ## UI
 
+![BizzCard](./client/public/AirbPage.png)
+
 ## Technologies
 
 This personal project was built using the following:
@@ -38,3 +42,5 @@ This personal project was built using the following:
     This app is licensed under the MIT license.
 
 ## LiveSite
+
+Coming soon.
